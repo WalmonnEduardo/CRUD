@@ -1,6 +1,4 @@
 <?php
-//Ambiente
-define("AMB_DEV",true);
 
 //Configurações do banco de dados
 define("DB_HOST","127.0.0.1");
